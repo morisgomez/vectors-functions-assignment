@@ -1,5 +1,5 @@
 # vectors-functions-assignment
-Practice running vectors through multiple functions.
+<b>Practice running vectors through multiple functions.</b>
 <br>
 <br>
 Problem 1: In vecfunc.cpp, implement the following functions.
