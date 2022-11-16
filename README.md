@@ -1,8 +1,8 @@
 # vectors-functions-assignment
-<b>Practice running vectors through multiple functions.</b>
+Practice running vectors through multiple functions.
 <br>
 <br>
-Problem 1: In vecfunc.cpp, implement the following functions.
+<b>Problem 1: In vecfunc.cpp, implement the following functions.</b>
 <br>
 <br>
 bool isfactor(int n, const vector<int> & vec)
